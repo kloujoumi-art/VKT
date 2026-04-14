@@ -11,7 +11,11 @@ const PORT = process.env.PORT || 3000;
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.use(express.static(path.join(__dirname, 'public')));
+// Sert depuis /public en local, depuis la racine sur Render
+const publicDir = fs.existsSync(path.join(__dirname, 'public'))
+  ? path.join(__dirname, 'public')
+  : __dirname;
+app.use(express.static(publicDir));
 
 // ─── Produits ─────────────────────────────────
 function getProducts() {
