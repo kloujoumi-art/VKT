@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "id": "orca",
+      "name": "ORCA Pro",
+      "subtitle": "12 Mois",
+      "description": "Application haut de gamme avec interface intuitive et stabilité maximale.",
+      "price": "39.99",
+      "currency": "€",
+      "image": "produts-orca.jpg",
+      "gumroad": "https://khalidlj.gumroad.com/l/GDT-ORC2024",
+      "features": ["13500+ Chaînes Live", "18000+ VOD", "HD & 4K", "iOS / Android / Smart TV"],
+      "badge": "POPULAIRE",
+      "color": "#9b59b6"
+    },
+    {
+      "id": "iron",
+      "name": "IRON TV MAX",
+      "subtitle": "12 Mois",
+      "description": "Accès illimité aux chaînes du monde entier en Full HD 1080p.",
+      "price": "45",
+      "currency": "€",
+      "image": "product-iron.png",
+      "gumroad": "https://khalidlj.gumroad.com/l/NE",
+      "features": ["13500+ Live", "18000+ VOD", "Full HD 1080p", "Tous appareils"],
+      "badge": "",
+      "color": "#2980b9"
+    },
+    {
+      "id": "fosto",
+      "name": "FOSTO",
+      "subtitle": "12 Mois",
+      "description": "Solution optimisée pour les appareils Android avec interface moderne.",
+      "price": "32.99",
+      "currency": "€",
+      "image": "product-fosto.png",
+      "gumroad": "https://khalidlj.gumroad.com/l/NE",
+      "features": ["13500+ Chaînes", "VOD illimité", "Android optimisé", "Mise à jour auto"],
+      "badge": "NOUVEAU",
+      "color": "#8e44ad"
+    },
+    {
+      "id": "neox2",
+      "name": "NEO X2",
+      "subtitle": "12 Mois",
+      "description": "Player multi-plateformes compatible avec tous vos appareils.",
+      "price": "32.99",
+      "currency": "€",
+      "image": "product-neox2.png",
+      "gumroad": "https://khalidlj.gumroad.com/l/NE",
+      "features": ["iOS / Android", "Smart TV / MAG", "M3U / VLC", "EPG inclus"],
+      "badge": "",
+      "color": "#c0392b"
+    },
+    {
+      "id": "atlas",
+      "name": "ATLAS",
+      "subtitle": "12 Mois",
+      "description": "Accès dédié aux chaînes Maroc, Monde Arabe et internationales.",
+      "price": "49.99",
+      "currency": "€",
+      "image": "product-atlas.png",
+      "gumroad": "https://khalidlj.gumroad.com/l/AT",
+      "features": ["Chaînes Maroc / Arab", "13500+ Live", "VOD illimité", "MAG / Smart TV"],
+      "badge": "",
+      "color": "#27ae60"
+    },
+    {
+      "id": "xplayer",
+      "name": "X PLAYER",
+      "subtitle": "12 Mois",
+      "description": "Player universel compatible avec toutes les listes M3U.",
+      "price": "32.99",
+      "currency": "€",
+      "image": "product-xplayer.png",
+      "gumroad": "https://khalidlj.gumroad.com/l/NE",
+      "features": ["Compatible M3U", "iOS / Android / Smart TV", "MAG / VLC", "EPG / Guide TV"],
+      "badge": "",
+      "color": "#2471a3"
+    }
+  ]
+}
