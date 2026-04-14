@@ -119,7 +119,7 @@ ${product.gumroad}
 📌 *Après votre paiement :*
 
 1️⃣ Téléchargez le *PDF reçu par email*
-2️⃣ Contactez-nous sur WhatsApp avec votre preuve de paiement pour recevoir votre *code d'accès*
+2️⃣ Envoyer votre preuve de paiement pour recevoir votre *code d'accès*
 
 📱 *${process.env.WHATSAPP_SUPPORT}*
 
